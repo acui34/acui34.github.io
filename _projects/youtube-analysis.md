@@ -3,7 +3,7 @@ title: 'Youtube Video Analysis'
 subtitle: 'Insights to Cultural Differences through Youtube Trending Video'
 date: 2018-04-30 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/youtube-ds-home-img.png'
 ---
 
 ![](/images/demo/demo-landscape-2.jpg)

@@ -3,7 +3,7 @@ title: 'Wiki Article Auto Q&A System'
 subtitle: 'An NLP system which generates questions and answers'
 date: 2020-04-30 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/q-a-home-img.jpg'
 ---
 
 ![](/images/demo/demo-landscape.jpg)
