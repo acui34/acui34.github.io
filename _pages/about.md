@@ -1,12 +1,11 @@
 ---
 title: About 
-subtitle: Duet is a beautiful Jekyll portfolio theme designed to showcase your work in style. Perfect for designers, artists, photographers and developers to use for their portfolio website.
-description: Duet is a beautiful Jekyll portfolio theme.
+subtitle: I am passionate about turning ideas into reality to make real-world impacts. With this motivation, I enjoy actively thinking about how things can be done differently as well as applying my skills in statistical analysis, NLP, machine learning, deep learning, large-scale data visualization & analysis to solve problems and gain useful insights.
+description: Coursework and contact information of me.
 featured_image: /images/demo/demo-landscape.jpg
 ---
 
-<a href="download/Aiqi_Cui_Resume_f20.pdf" class="button">Download Resume</a>
-
+<button type="button" class="button" onclick="window.location.href='download/Aiqi_Cui_Resume_f20.pdf'">Download Resume</button>
 
 
 ## Related Coursework
