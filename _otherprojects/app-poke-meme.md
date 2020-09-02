@@ -3,7 +3,7 @@ title: 'Poke Meme'
 subtitle: 'An innovative iOS app helping people learn about local culture'
 date: 2019-12-10 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/demo/demo-landscape-2.jpg'
+featured_image: '/images/poke-meme-home-img.jpg'
 ---
 
 ![](/images/demo/demo-landscape-2.jpg)
