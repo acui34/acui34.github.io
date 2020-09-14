@@ -6,31 +6,27 @@ description: This page is a demo that shows everything you can do inside portfol
 featured_image: '/images/poke-meme-home-img.jpg'
 ---
 
-![](/images/demo/demo-landscape-2.jpg)
+<iframe width="640" height="360" src="https://www.youtube.com/embed/94BZP68molM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Demo content
+> “A Journey Prize Winning Project in Capital One Sponsored Course Project Competition”
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+## Overview
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+Poke Meme is the new way of getting your “HAHA’s and LOL’s” on the go! We made it easy for you to create, share and discover spicy memes, all based on your real location. With the app, you can get to know the hidden culture of any place you are visiting and keep up with the most recent trends in your own communities.
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+## Responsibility
 
-You can create lists:
+* Designed and implemented the app's internal API with PostgreSQL and Ruby on Rails to support backend interactions
+* Deployed and maintained the API through Github and Heroku
+* Built and deployed two versions of the application with Swift(UI, models and controllers), and AWS S3(Image Storage)
+* Conducted multiple rounds of user testing to gain feedback and revise features
 
-* Simple bulleted lists
-* Like this one
-* Are cool
+## Code
+* [Github: App Code](https://github.com/yjtheone/Meme)
+* [Github: API Code](https://github.com/acui34/67442PokeMeme_API)
 
-And:
-
-1. Numbered lists
-2. Like this other one
-3. Are great too
-
+<!-- 
 You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
-
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
 
 The theme also supports markdown tables:
 
@@ -103,4 +99,4 @@ We've packed this theme with powerful features to show off your work.
 
 Why not put them to use on your new portfolio?
 
-<a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+<a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a> -->

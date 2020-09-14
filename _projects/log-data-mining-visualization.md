@@ -1,16 +1,25 @@
 ---
 title: 'Log Data Mining and Visualization'
-subtitle: 'Learning Pattern Data Mining with Website User Log'
+subtitle: 'Learning Pattern Discovery with Website User Log'
 date: 2020-04-30 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
 featured_image: '/images/log-vis-home-img.png'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+<!-- ![](/images/demo/demo-landscape.jpg) -->
 
-## Demo content
+## Responsiblity
+* Automated and managed extraction, cleansing, and reformation of server data with Linux commands and Python
+* Analyzed user log data through pattern recognition and clustering to evaluate project main features
+* Designed and implemented a system with d3.js to visualize learning pattern differences between novice and professional users
+* Collaborated with a team of 5 to convert data insights into new features of an iOS app; delivered it in 2 months 
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+## Publication
+Cui, C., Hill, J., Louw, M., and Roberts, J. (Under review). Using Log Visualizations to Interpret Online Interactions during Self-Quizzing Practice for Taxonomic Identification
+
+## More Visualization and Code are Coming Soon!
+
+<!-- This page is a demo that shows everything you can do inside portfolio and blog posts.
 
 We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
 
@@ -103,4 +112,4 @@ We've packed this theme with powerful features to show off your work.
 
 Why not put them to use on your new portfolio?
 
-<a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+<a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a> -->

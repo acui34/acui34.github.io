@@ -1,20 +1,51 @@
 ---
-title: 'Micro.org Mobile App'
+title: 'Macroinvertebrates.org'
 subtitle: 'An open educational resource for macronvertebrates identification'
 date: 2020-08-10 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
 featured_image: '/images/macro-app-home-img.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+<!-- ![](/images/demo/demo-landscape.jpg) -->
 
-## Demo content
+## Overview
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+Thanks to [Dr.Jessica Roberts](http://jessicaannroberts.com/) and [Marti Louw](https://hcii.cmu.edu/people/marti-louw) at CMU Learning Media Design Center, I'm honored to be involved in this amazing project (bug alert!) - [macroinvertebrates.org](http://macroinvertebrates.org) from October 2018 to August 2020.
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+Meanwhile, I participated in many parts of the project, as a software engineer and/or a data analyst. The main milestones include:
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+* Interactive Dichotomous Key
+* Macro.org Mobile App v1.0 (React Native)
+* Macro.org Mobile App v2.0 (Flutter)
+* Macro.org Mobile App v3.0 (Swift)
+* Learning Pattern Mining and Visualization with Website Log
+
+## Publication
+Cui, C., Hill, J., Louw, M., and Roberts, J. (Under review). Using Log Visualizations to Interpret Online Interactions during Self-Quizzing Practice for Taxonomic Identification
+
+## Interactive Dichotomous Key
+
+* Built an [interactive dichotomous key](http://macroinvertebrates.org/key/) for macroinvertebrate identification
+* Collaborated with scientists and designers to interate on interaction design for UX improvement
+* Performed multiple rounds of interviews with users to test usability and collect feedback
+* Used JavaScript and HTML
+
+## Macro.org Mobile App v1.0 & v2.0 
+* Designed and implemented a cross-platform offline-first mobile application with React Native (v1.0) and
+Flutter (v2.0) to allow users to easily identify macroinvertebrates in outdoor environments.
+* Re-designed and developed the project site’s database to satisfy mobile needs and saved 5GB+ memory
+
+## Macro.org Mobile App v3.0 (Swift)
+* Served as the lead developer in a team of 2 for the development of the project's mobile app
+* Led system architecture design and weekly dev planning
+* Deployed the app to Testflight for beta testing
+
+The app is still under beta testing and is expected to be released this fall. Please refer to this [Blog](https://seetolearn.weebly.com/project-blog) to see works we've done.
+
+## Log Data Mining and Visualization
+Project information can be found in [this post](../data-projects/log-data-mining-visualization).
+
+<!-- **Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 You can create lists:
 
@@ -103,4 +134,4 @@ We've packed this theme with powerful features to show off your work.
 
 Why not put them to use on your new portfolio?
 
-<a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+<a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a> -->

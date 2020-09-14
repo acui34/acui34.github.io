@@ -6,11 +6,15 @@ description: This page is a demo that shows everything you can do inside portfol
 featured_image: '/images/youtube-ds-home-img.png'
 ---
 
-![](/images/demo/demo-landscape-2.jpg)
+<!-- ![](/images/demo/demo-landscape-2.jpg) -->
 
-## Demo content
+<iframe width="640" height="360" src="https://www.youtube.com/embed/SWRJ-Ka7u9Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+## Overview
+
+In this project, we analyzed Youtube trending video data from Kaggle with Python Pandas library to get insights of cultural differences and created visualoizations with Tableau.
+
+<!-- This page is a demo that shows everything you can do inside portfolio and blog posts.
 
 We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
 
@@ -103,4 +107,4 @@ We've packed this theme with powerful features to show off your work.
 
 Why not put them to use on your new portfolio?
 
-<a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+<a href="https://jekyllthemes.io/theme/duet-portfolio-jekyll-theme" class="button button--large">Get This Theme</a> -->
