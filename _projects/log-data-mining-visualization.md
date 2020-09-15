@@ -15,6 +15,9 @@ featured_image: '/images/log-vis-home-img.png'
 * Collaborated with a team of 5 to convert data insights into new features of an iOS app; delivered it in 2 months 
 
 ## Publication
+
+<button type="button" class="button" onclick="window.location.href='../download/AERA21_Macros.pdf'">Preview</button>
+
 Cui, C., Hill, J., Louw, M., and Roberts, J. (Under review). Using Log Visualizations to Interpret Online Interactions during Self-Quizzing Practice for Taxonomic Identification
 
 ## More Visualization and Code are Coming Soon!
