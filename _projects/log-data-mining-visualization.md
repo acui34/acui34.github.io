@@ -16,8 +16,6 @@ featured_image: '/images/log-vis-home-img.png'
 
 ## Publication
 
-<button type="button" class="button" onclick="window.location.href='../download/AERA21_Macros.pdf'">Preview</button>
-
 Cui, C., Hill, J., Louw, M., and Roberts, J. (Under review). Using Log Visualizations to Interpret Online Interactions during Self-Quizzing Practice for Taxonomic Identification
 
 ## More Visualization and Code are Coming Soon!
