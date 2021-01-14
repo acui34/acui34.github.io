@@ -17,4 +17,4 @@ In this project, we established a model to predict when a patient may be clinica
 <a href="https://www.youtube.com/watch?v=vYpiNpu6D5I&feature=youtu.be" class="button button--large">Link</a> 
 
 ## Additional
-<button type="button" class="button" onclick="window.location.href='download/oncology-hackathon.pdf'">Certificate</button>
+<button type="button" class="button" onclick="window.location.href='../download/oncology-hackathon.pdf'">Certificate</button>
