@@ -62,7 +62,12 @@ However, music is great and people should not be stopped by these reasons. To he
 * [Github: Backend Code](https://github.com/acui34/Practiced)
 * [Github: Client Code](https://github.com/acui34/CloudFinalFrontend)
 
+## Demo
+
+<a href="https://youtu.be/sI1hFGFAwzQ" class="button button--large">Video</a> 
+
 ## Additional
+
 
 Note: This is my final project for Fall 2020 COMS 6998 Cloud Commputing & Big Data. All works and design were done by myself in 5 days... However, I really love the idea and I'm intending to continue this project by improving the machine learning model with more music meta data and potentially incoporate a recommendation system.
 
