@@ -10,7 +10,8 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ## Related Coursework
 
-Here are some advanced data science related course I've taken at CMU:
+
+Here are some advanced data science related course I've taken at CMU and Columbia:
 
 <table class="table" style="border:none;">
   <tr>
@@ -18,6 +19,18 @@ Here are some advanced data science related course I've taken at CMU:
     <th>Course Name</th>
     <th>Semester</th>
     <th>Instructor(s)</th>
+  </tr>
+    <tr>
+    <td>EECS 6691</td>
+    <td><a href="http://demo.clab.cs.cmu.edu/NLP/">Advanced Deep Learning</a></td>
+    <td>S21</td>
+    <td>Alan W. Black & David R. Mortensen</td>
+  </tr>
+    <tr>
+    <td>11-411</td>
+    <td><a href="http://demo.clab.cs.cmu.edu/NLP/">Natural Language Processing</a></td>
+    <td>S20</td>
+    <td>Alan W. Black & David R. Mortensen</td>
   </tr>
   <tr>
     <td>11-411</td>

@@ -29,6 +29,8 @@ We established a model that outputs a heatmap showing regions of a biopsy image 
 
 ## Presentation Video
 
+Note: Due to class setting, the code cannot be released, but a code walk-through is included in the end of the presentation video.
+
 <a href="https://youtu.be/LQ7UBgv7qBA" class="button button--large">Link</a> 
 
 ## Additional
