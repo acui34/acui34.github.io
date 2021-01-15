@@ -20,17 +20,35 @@ Here are some advanced data science related course I've taken at CMU and Columbi
     <th>Semester</th>
     <th>Instructor(s)</th>
   </tr>
-    <tr>
-    <td>EECS 6691</td>
-    <td><a href="http://demo.clab.cs.cmu.edu/NLP/">Advanced Deep Learning</a></td>
-    <td>S21</td>
-    <td>Alan W. Black & David R. Mortensen</td>
-  </tr>
-    <tr>
-    <td>11-411</td>
-    <td><a href="http://demo.clab.cs.cmu.edu/NLP/">Natural Language Processing</a></td>
+  <tr>
+    <td>COMS6998</td>
+    <td>Fundamentals of Speech Recognition</td>
     <td>S20</td>
-    <td>Alan W. Black & David R. Mortensen</td>
+    <td>Homayoon Beigi</td>
+  </tr>
+  <tr>
+    <td>EECSE6691</td>
+    <td>Advanced Deep Learning</td>
+    <td>S21</td>
+    <td>Zoran Kostic</td>
+  </tr>
+  <tr>
+    <td>COMSE6998</td>
+    <td>Cloud Computing</td>
+    <td>F20</td>
+    <td>Sambit Sahu</td>
+  </tr>
+  <tr>
+    <td>COMSE4995</td>
+    <td>Applied Deep Learning</td>
+    <td>F20</td>
+    <td>Josh Gordon</td>
+  </tr>
+  <tr>
+    <td>IEORE4571</td>
+    <td>Personalization: Theory and Application</td>
+    <td>F20</td>
+    <td>Brett Vintch</td>
   </tr>
   <tr>
     <td>11-411</td>
