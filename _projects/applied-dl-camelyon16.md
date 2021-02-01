@@ -16,7 +16,7 @@ We established a model that outputs a heatmap showing regions of a biopsy image 
 
 ## Overview
 
-* Recreated and built upon the patch based multi-scale approach from <a href="https://arxiv.org/abs/1703.02442"><i>"Detecting Cancer Metastases on Gigapixel Pathology Images"</i></a> (Liu et al., 2017)
+* Reproduced and built upon the patch based multi-scale approach from <a href="https://arxiv.org/abs/1703.02442"><i>"Detecting Cancer Metastases on Gigapixel Pathology Images"</i></a> (Liu et al., 2017)
 * Leveraged a convolutional neural network (CNN) architecture with fine tuning on image net (Inception V3 and VGG), patch window size, and magnification level selection.
 * To avoid imbalanced data, at each step sample randomly for a positive or negative patch with equal probability.
 * Achieved ~80% AUC and 89% sensitivity. 
