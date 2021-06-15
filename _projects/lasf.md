@@ -1,24 +1,47 @@
 ---
-title: 'Log Data Mining and Visualization'
-subtitle: 'Learning Pattern Discovery with Website User Log'
-date: 2020-04-30 00:00:00
+title: 'LaSF'
+subtitle: ' Look a Step Further for Empathetic Dialogue Generation'
+date: 2021-4-30 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/log-vis-home-img.png'
+featured_image: '/images/support.jpg'
 ---
 
 <!-- ![](/images/demo/demo-landscape.jpg) -->
 
+## Overview
+
+In this project, we proposed **look a step further
+(LaSF)**, which improves the response empathy for
+mental health support dialog systems by leveraging
+reinforcement learning techniques. 
+
+<img src='/images/lasf-img-2.png' width="700"/>
+
+Specifically, we created a new dataset by reforming the EmpatheticDialogues(ED) dataset and adding sentiment scores
+of the turn-level speaker replies, which was later
+used for training a BERT-based sentiment predictor
+model as the reward function. Then, we used
+an adapted version of policy gradient method in
+reinforcement learning to fine-tune our original
+generative dialog model. By evaluating our model
+with automatic metrics and an empathy scorer proposed
+by Sharma et al. (2020), we found that our
+approach effectively improved the empathy performance
+in generated responses.
+
+<img src='/images/lasf-img-1.png' width="700"/>
+
 ## Responsiblity
-* Automated and managed extraction, cleansing, and reformation of server data with Linux commands and Python
-* Analyzed user log data through pattern recognition and clustering to evaluate project main features
-* Designed and implemented a system with d3.js to visualize learning pattern differences between novice and professional users
-* Collaborated with a team of 5 to convert data insights into new features of an iOS app; delivered it in 2 months 
 
-## Publication
+* Led project idea generation and literature review in a team of 4
+* Performed fine-tuning experiments with DialogGPT on the EmpatheticDialogues
+dataset to get the baseline performances
+* Created a new dataset for this project by reforming the EmpatheticDialogues dataset and adding sentiment scores of the turn-level speaker replies
+* Researched and implemented a BERT-based sentiment classifier for speaker response empathy prediction as the reward function (look ahead)
 
-Cui, C., Hill, J., Louw, M., and Roberts, J. Using Log Visualizations to Interpret Online Interactions during Self-Quizzing Practice for Taxonomic Identification
+## Additional
 
-[Poster](https://aera21-aera.ipostersessions.com/Default.aspx?s=D0-9D-A0-1B-C0-49-87-5B-8A-3F-56-A7-02-C5-ED-66#)
+<button type="button" class="button" onclick="window.location.href='../download/LaSF_final_report.pdf'">Project Report</button>
 
 
 <!-- This page is a demo that shows everything you can do inside portfolio and blog posts.

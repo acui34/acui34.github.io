@@ -22,9 +22,9 @@ Here are some advanced data science related course I've taken at CMU and Columbi
   </tr>
   <tr>
     <td>COMS6998</td>
-    <td>Fundamentals of Speech Recognition</td>
+    <td>Conversational AI</td>
     <td>S20</td>
-    <td>Homayoon Beigi</td>
+    <td>Zhou Yu</td>
   </tr>
   <tr>
     <td>EECSE6691</td>

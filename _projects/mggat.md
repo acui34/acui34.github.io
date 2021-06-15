@@ -1,25 +1,52 @@
 ---
-title: 'Log Data Mining and Visualization'
-subtitle: 'Learning Pattern Discovery with Website User Log'
-date: 2020-04-30 00:00:00
+title: 'Mutli-Graph Graph Attention Network'
+subtitle: 'Replication of a recent top-performing DL-based recommendation system in PyTorch'
+date: 2021-04-30 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/log-vis-home-img.png'
+featured_image: '/images/mggat.jpg'
 ---
 
 <!-- ![](/images/demo/demo-landscape.jpg) -->
 
+## Overview
+In this project, we replicated a recent
+top-performing deep learning recommendation
+systems model, [Mutli-Graph Graph Attention Network
+(MG-GAT)](https://dspace.mit.edu/bitstream/handle/1721.1/129854/1237564537-MIT.pdf?sequence=1&isAllowed=y), in PyTorch and applied it on the
+YahooMusic Monti dataset to get detailed performance
+evaluations. We chose this paper because we were
+interested in how it leverages attention mechanism in
+graph neural networks to achieve #1 ranked
+performance for the benchmark. We successfully
+replicated the model and evaluated it with the metrics
+provided as well as other metrics that were mentioned
+in the paper but not shown in results. After fine-tuning,
+we achieved a final Root Mean Squared Error (RMSE)
+result that is very similar to the result provided in the
+paper but slightly higher. 
+
+<img src='/images/mg-gat-img-1.png' width="400"/>
+
+As the first PyTorch version of
+the model and the first to provide detailed evaluation
+results on the YahooMusic Monti dataset, may bring
+great reference values to the research community for
+future explorations.
+
+<img src='/images/mg-gat-img-2.png' width="400"/>
+
+
 ## Responsiblity
-* Automated and managed extraction, cleansing, and reformation of server data with Linux commands and Python
-* Analyzed user log data through pattern recognition and clustering to evaluate project main features
-* Designed and implemented a system with d3.js to visualize learning pattern differences between novice and professional users
-* Collaborated with a team of 5 to convert data insights into new features of an iOS app; delivered it in 2 months 
 
-## Publication
+* Reconstruct MG-GAT in Pytorch  and achieved ~22.86 RMSE (first PyTorch version online by April 2021)
+* Validated experiment result for YahooMusic MontiDataset in paper (RMSE)
+* Used additional ranking metrics to get a comprehensive performance measurement on
+YahooMusic Monti Dataset
+* Performed ablation study on component importance
 
-Cui, C., Hill, J., Louw, M., and Roberts, J. Using Log Visualizations to Interpret Online Interactions during Self-Quizzing Practice for Taxonomic Identification
+## Additional
 
-[Poster](https://aera21-aera.ipostersessions.com/Default.aspx?s=D0-9D-A0-1B-C0-49-87-5B-8A-3F-56-A7-02-C5-ED-66#)
-
+<button type="button" class="button" onclick="window.location.href='../download/MGGAT-final-report.pdf'">Project Report</button>
 
 <!-- This page is a demo that shows everything you can do inside portfolio and blog posts.
 
